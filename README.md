@@ -26,12 +26,11 @@ It simulates how intelligent systems can assist in **airport baggage management*
 ---
 
 📁 project_root/
-│
-├── best.pt # Trained YOLOv8 model
-├── your_video.mp4 # Input video file
-├── track_luggage.py # Main detection + tracking script
-├── tracked_output.mp4 # Output video with tracking
-└── README.md # Project documentation
+-  best.pt 
+- luggage_clip.mp4 
+- track_luggage.py 
+- racked_output.mp4 
+
 
 🧠 How It Works
 - YOLOv8 detects luggage objects in each frame.
