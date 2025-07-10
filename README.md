@@ -28,4 +28,9 @@ smart-luggage-tracker/
 - requirements.txt # Python dependencies
 - README.md # Project overview
 
+## Outputs
+<img width="554" height="549" alt="Screenshot 2025-06-24 162523" src="https://github.com/user-attachments/assets/5a8b296e-1bf2-40eb-9fa9-bf297d747efc" />
+
+## Author
+  - created by Srinidhi Vodnala
 
